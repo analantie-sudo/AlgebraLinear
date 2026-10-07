@@ -1,6 +1,9 @@
 <?php
+
 namespace Controller;
+
 use Model\Matriz;
+
 class ControladorMatriz
 {
     public function executar(string $operacao,array $matrizA,?array $matrizB=null):array
