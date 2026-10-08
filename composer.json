@@ -1,0 +1,23 @@
+{
+    "name": "laura/algebra-linear",
+    "description": "Laboratório de Álgebra Linear",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Laura\\AlgebraLinear\\": "src/",
+            "Controller\\": "Controller/",
+            "Model\\": "Model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "laurasouza-byte",
+            "email": "laura.souza@ba.estudante.senai.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    }
+}

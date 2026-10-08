@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Algoritmos</title>
-    <link rel="stylesheet" href="../templates/css/global.css">
+    <link rel="stylesheet" href="/templates/css/global.css">
 </head>
 <body>
     <main class="container">
