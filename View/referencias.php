@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Algoritmos</title>
-    <link rel="stylesheet" href="/templates/css/global.css">
+    <link rel="stylesheet" href="../templates/css/global.css">
 </head>
 <body>
     <main class="container">
-        <a href="index.php">← Voltar</a>
+        <a href="../index.php">Voltar</a>
         <h1>Algoritmos implementados</h1>
         
         <ul>

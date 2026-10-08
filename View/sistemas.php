@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 
 use Controller\ControladorSistemaLinear;
 
@@ -35,11 +35,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <title>Sistemas Lineares</title>
-    <link rel="stylesheet" href="/templates/css/global.css">
+    <link rel="stylesheet" href="../templates/css/global.css">
 </head>
 <body>
     <main class="container">
-        <a href="index.php">← Voltar</a>
+        <a href="../index.php">Voltar</a>
         <h1>Resolução de Sistemas Lineares</h1>
 
         <form method="post">
